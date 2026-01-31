@@ -14,12 +14,12 @@ timezone:Nairobi
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jane Kamondo Blogs
+title:Jane Kamondo Blogs
 
 tagline: Data Science Blogs | AI|  ML | DL | Data Analysis 
 
-description: >- # used by seo meta and the atom feed
- My DataScience , AI,ML and DL journey
+description: description: 
+" My DataScience , AI,ML and DL journey"
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: https://wambuik-97.github.io
@@ -33,7 +33,7 @@ twitter:
 social:
   # Jane Wambui Kamondo
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Jane Wambui Kamondo
+   name: Jane Wambui Kamondo
   email: janekamondo757@gmail.com
   links:
     # The first element serves as the copyright owner's link
