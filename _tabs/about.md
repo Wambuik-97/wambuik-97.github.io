@@ -1,19 +1,11 @@
 ---
-title: About
-icon: fas fa-user
-const aboutMe = {
-  name: "Jane Kamondo",
-  role: "Aspiring Data Scientist",
-  vibe: "Tech Girl 👩🏽‍💻",
-  passions: [
-    "Learning from data",
-    "Exploring patterns and insights",
-    "AI, ML & Data Analysis",
-    "Building things with code"
-  ],
-  mindset: "Curious, growth-oriented, and always learning",
-  funFact: "I see data everywhere and ask a lot of 'why' questions 📊"
-};
+title:about_me = {
+    "name": "Jane Kamondo",
+    "role": "Data Science Enthusiast",
+    "identity": "Tech Girl",
+    "passion": "Learning data and exploring insights",
+    "interests": ["AI", "Machine Learning", "Deep Learning", "Data Analysis"],
+    "mindset": "Always curious, always learning"
+}
 
-export default aboutMe;
 
